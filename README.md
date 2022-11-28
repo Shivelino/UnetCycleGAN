@@ -9,7 +9,7 @@ pip install -r requirements.txt
 ## Dataset
 - Dataset format reference ```dataset/example```
 - Pix2pix datasets used by networks such as CycleGAN can be used
-- The datasets of flower41-49 and flower51-98 provided by us can be found in the release
+- The datasets of flower41-49 and flower51-98 provided by us can be found in the [release](https://gitee.com/shivelino/UnetCycleGAN)
 
 ## Run
 - Train
